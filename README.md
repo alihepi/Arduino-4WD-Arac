@@ -2,7 +2,7 @@
 
 <img src="./images/arduino_arac1.jpg" alt="arduino_arac_tasarimi">
 
-Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği Lisans Programı kapsamında aldığım Mikroişlemci Tabanlı Denetleyiciler dersi kapsamında, Arduino ile tasarladığım 4WD araç projesidir. İki model olarak tasarlanan bu araç; <br/> 
+Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği Lisans Programı'nın Mikroişlemci Tabanlı Denetleyiciler dersi kapsamında, Arduino ile tasarladığım 4WD araç projesidir. İki model olarak tasarlanan bu araç; <br/> 
 - İlk model [otonom olarak engellerden kaçan bir araç](./engelden-kacan-otonom-arac/README.md) 
 - İkinci model ise [Bluetooth ile uzaktan kontrollü bir araç](./bt-uzaktan-kumandalı-arac/README.md), <br/>
 olarak kullanılabilmesi için kodlanmıştır.
